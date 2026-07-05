@@ -118,9 +118,9 @@ python3 server.py
 
 # 📤 Subir archivos
 
-Desde la consola:
+Abrir otra terminal:
 
-[+] Utilizando `curl`
+[+] Utilizar `curl`
 
 ```bash
 curl -F "file=@/ruta/de/tu/archivo/local" http://192.168.20.10:8000/path/uploader.php
